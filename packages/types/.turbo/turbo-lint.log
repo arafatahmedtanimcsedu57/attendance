@@ -1,0 +1,5 @@
+
+
+> @attendance/types@0.0.0 lint /home/arafat-ahmed/Dev/Personal/attendance/packages/types
+> eslint . -c ../../eslint.config.mjs
+

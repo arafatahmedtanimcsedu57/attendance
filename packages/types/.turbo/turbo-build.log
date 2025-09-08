@@ -1,0 +1,5 @@
+
+
+> @attendance/types@0.0.0 build /home/arafat-ahmed/Dev/Personal/attendance/packages/types
+> tsc -p tsconfig.json
+

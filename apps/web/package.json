@@ -1,0 +1,11 @@
+{
+"name": "web",
+"private": true,
+"version": "0.0.0",
+"scripts": {
+"dev": "echo 'Next.js will be added in T0-02' && sleep 1",
+"build": "echo 'skip'",
+"lint": "echo 'skip'",
+"typecheck": "echo 'skip'"
+}
+}
